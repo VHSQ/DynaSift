@@ -44,9 +44,9 @@ The code has been restructured into distinct functions:
 * 4- `iterate_logistic_map`: Drives the logistic map iterations using an input sequence derived from the Lorenz attractor's path, with customizable `r_logistic` and initial `x0_logistic`.
 * 5- `visualize_results`: Plots both the Lorenz attractor in 3D and the resulting logistic map sequence in a 2D plot for visual analysis.
 
-These functions allow to have a more modular and understandable structure
+These functions allow to have a more modular and understandable structure.
 
-. Each part of the process is separated, making it easier to modify or extend individual components without affecting the overall workflow.
+Each part of the process is separated, making it easier to modify or extend individual components without affecting the overall workflow.
 
 The main execution flow then becomes straightforward:
 
