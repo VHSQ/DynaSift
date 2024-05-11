@@ -45,4 +45,4 @@ DynaSift was inspired by the work of [insert inspiration/reference].
 Contact
 -------
 
-If you have any questions or issues, please don't hesitate to contact me at [insert contact information].
+If you have any questions or issues, please don't hesitate to contact me.
